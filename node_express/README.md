@@ -37,3 +37,5 @@ we require fs at the top and deconstruct readFile from the pm
 
 using res.send() we have 3 arguments for sending HTML files. The relative path to the HTML, utf8 from the meta, and the html or err, html. 
 res.send(html)
+
+app.get('*') will target all non valid endpoints and deliver a custome response.
