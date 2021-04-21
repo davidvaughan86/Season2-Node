@@ -1,0 +1,24 @@
+.container {
+    display: grid;
+    height: 100vh;
+    place-items: center;
+    background: linear-gradient(blue, yellow);
+}
+
+.smaller {
+    display: grid;
+    align-items: center;    
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
+.link1 {
+    margin-left: 25%;
+}
+
+.link2{
+    margin-right: 25%;
+}

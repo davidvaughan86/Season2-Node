@@ -1,5 +1,5 @@
 {
-  "name": "contactUs",
+  "name": "contactus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon":"nodemon",
     "express": "^4.17.1"
   },
   "devDependencies": {
